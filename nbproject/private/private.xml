@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/web/register.jsp</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/src/java/models/Student.java</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/web/index.jsp</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/web/index.html</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/src/java/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/src/java/dao/HibernateUtil.java</file>
+            <file>file:/C:/Users/magtech/Documents/NetBeansProjects/RegistrationSystem/src/java/servlet/StudentServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
